@@ -1,1 +1,1 @@
-<a href="rain_sym/paper/rain.pdf" class="image fit"></a>
+<a href="paper/rain.pdf" class="image fit"></a>
