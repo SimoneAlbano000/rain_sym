@@ -1,1 +1,1 @@
-<iframe src="https://SimoneAlbano000.github.io/rain_sym/paper/rain.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://raw.githubusercontent.com/SimoneAlbano000/rain_sym/main/paper/rain.pdf" width="100%" height="600px"></iframe>
